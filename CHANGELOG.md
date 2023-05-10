@@ -2,8 +2,7 @@
 
 All notable changes to the "carcargi-comment-generator" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 2023-05-09
+- Initial release, Basic code and configuration, Code Only!
