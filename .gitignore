@@ -1,0 +1,27 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+.env
+
+# Node.js build artifacts
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+out
+*.vsix
+
+# Environment variables
+.env
+
+# Debugging logs
+.debug.txt
+
+# VS Code settings
+.vscode
+
+# Test artifacts
+.mocha-*
